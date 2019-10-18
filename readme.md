@@ -12,3 +12,15 @@
       Added app.get("/)
       Added app.listen
       All of this works
+
+# Version 2:
+   - Add in ejs file capability
+   - Add in views directory
+   - Added views/landing.ejs
+   - Added views/index.ejs
+   - ROUTES are working
+   - Added partials directory
+   - Added partials/header.ejs
+   - Added partials/footer.ejs
+   - Added Bootstrap 4 to both the header and footer ejs files
+   - Included header and footer ejs files in landing and index ejs files
